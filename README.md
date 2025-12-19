@@ -2,11 +2,10 @@
   <img width="40%" src="https://github.com/pangiiz-qq/pangiiz/blob/main/pangiiz-logo.png"  />
 </div>
 
-###
 
-<h2 align="center">W E L C O M EㅤT Oㅤ.:: P ☆ N G II Z ' s ::.</h2>
 
-###
+<h1 align="center">W E L C O M EㅤT Oㅤ.:: P ☆ N G II Z ' s ::.</h1>
+
 
 <h3 align="center">👋 Hi, I'm Supitcha (Pang)<br>Web Director & Project Support</h3>
 
@@ -18,18 +17,14 @@
 
 <p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pangiiz-qq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />ㅤㅤ
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pangiiz-qq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pangiiz-qq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pangiiz-qq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
-###
 
 <img align="right" height="175" src="https://github.com/pangiiz-qq/pangiiz/blob/main/barley.webp"  />
 
@@ -78,15 +73,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
 </div>
-
-###
-
-<p align="center">oﾟo｡oﾟo｡oﾟo｡oﾟo｡oﾟoﾟo｡oﾟo｡oﾟo ﾟo｡oﾟo｡oﾟoﾟo｡oﾟ</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pangiiz-qq/pangiiz-qq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pangiiz-qq/pangiiz-qq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pangiiz-qq/pangiiz-qq/output/pacman-contribution-graph.svg">
-</picture>
